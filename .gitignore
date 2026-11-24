@@ -1,0 +1,9 @@
+# Archivos que crea macOS solo
+.DS_Store
+
+# Salidas que se generan al correr la notebook
+mlruns/
+mlflow.db
+runs/
+__pycache__/
+.ipynb_checkpoints/
